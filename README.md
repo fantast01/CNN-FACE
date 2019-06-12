@@ -12,4 +12,4 @@ Pycharm 版本 JetBrains PyCharm 2017.1.8 x64 tensorflow 版本 Tensoflow-gpu 1.
 opencv-python 3.41 
 其他软件及库的
 版本 
-NVIDIA CUDA 9.2  CuDNN 7.0 dlib 19.8.1   numpy 1.14.2 
+NVIDIA CUDA 9.2 CuDNN 7.0 dlib 19.8.1 numpy 1.14.2 
